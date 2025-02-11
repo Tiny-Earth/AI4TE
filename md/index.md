@@ -1,45 +1,59 @@
 ---
 marp: true
 lang: en-US
-title: "Marp Document Template"
+title: "AI 4 Tiny Earth"
 theme: custom
 size: a4
 paginate: true
 headingDivider: 3
 ---
 
-# Title Page
+# AI 4 Tiny Earth
 <!-- _paginate: skip -->
 
 Version: {{ process.env["TAG"] }}
 
-## Another Page
+## AI is here&mdash;Now what?
 
-### And Another
+## Staying up-to-date
 
-#### This does not make a new page
+https://dailynous.com/
 
----
+https://dailynous.com/2022/10/05/if-you-cant-beat-them-join-them-gpt-3-edition/
 
-But three lines does
+https://dailynous.com/2024/02/22/using-generative-ai-to-teach-philosophy-w-an-interactive-demo-you-can-try-guest-post/
 
-## Basics
+https://dailynous.com/2022/08/31/conversation-starter-teaching-philosophy-in-an-age-of-large-language-models-guest-post/
 
-This is a paragraph
+https://dailynous.com/2024/08/29/one-universitys-ai-guide-for-students-written-with-the-help-of-ai/
 
-This is *italics* and **bold**
+`Recommendation`
 
-- This is
-- a list
+`Limitation`
 
-1. This is
-2. a numbered
-3. list
+## Generative AI tools
 
-> And this is a
-> blockquote!
+https://studentguidetoai.org/
 
-<!-- This is a comment, it won't appear! -->
+https://duck.ai/
+
+https://www.chatpdf.com/
+
+https://phildemo2harnessai.azurewebsites.net/
+
+## Evaluating evidence
+
+https://www.scimagojr.com/journalrank.php
+
+https://www.scimagojr.com/journalrank.php?category=3204&area=3200&type=j&openaccess=true
+
+https://www.aera.net/Publications/Journals
+
+https://link.springer.com/journal/146
+
+## What the evidence says
+
+## (evidence-based practical sections)
 
 <!-- Don't edit these lines! -->
 {{ `<script src="script.js?v=${process.env["TAG"]}"></script>` }}

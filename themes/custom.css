@@ -15,6 +15,11 @@
     font-size: 16pt;
     letter-spacing: normal;
     text-align: left;
+    --color-beaver: #ba937fff;
+    --color-cerulean: #016b85ff;
+    --color-cerulean-2: #007d99ff;
+    --color-caf-noir: #55391cff;
+    --color-black: #000000ff;
 }
 
 h1, h2, h3, h4 {
